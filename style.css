@@ -1,0 +1,89 @@
+/*external style*/
+*{
+    background-color: rgba(17, 92, 62, 0.377);
+    color: black;
+}
+.name{
+    font-family: "Nosifer", sans-serif;
+    text-align: center;
+    color:rgb(255, 0, 0);
+    font-size:large;
+    font-style: normal;
+    font-weight: bold;
+    background-color:rgb(237, 250, 229);
+    width: 100%;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align:center;
+}
+.E{
+    font-family: "My Soul", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(0, 255, 68);
+}
+
+.G{
+    font-family: "My Soul", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: blueviolet;
+}
+
+.h2{
+    font-family: "My Soul", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: aqua;
+}
+.M{
+   font-family: "Freckle Face", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(210, 57, 30);
+}    
+
+.W{
+   font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background-color: forestgreen;
+}
+.B{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: midnightblue;
+}
+.T{
+  font-family: "My Soul", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(7, 235, 247);
+  color: rgb(243, 255, 240);
+  
+}
+
+.A{
+  font-family: "Condiment", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.S{
+   font-style: italic;
+  font-family: "Rubik Marker Hatch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+}
+.D{
+ font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size:large;
+}
